@@ -40,11 +40,8 @@ The output of the script is RMSE, fit_time, test_time for tested algorithms.
 The script evaluates the selected model using test data gathered from “train_test_split” function. Best models from “best_parameter_search.py” script are imported and used on test data.
 
 The script is used with one argument:
-Python3 validate_model.py SVD
+python3 validate_model.py SVD
 
 The output of the script is RMSE of a tested model.
-
-
-Happy evaluation!
 
 © 2019 jakobpremrn
