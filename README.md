@@ -6,7 +6,7 @@ There a few functions used in the process. In the following lines I will explain
 
 
 
-**_In order for code to function perfectly one is supposed to run scripts in a row, top down._**
+**_In order for code to function perfectly one is supposed to run scripts in a row, top down, as some files that are generated are missing on GitHub._**
 
 
 
