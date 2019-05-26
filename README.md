@@ -2,7 +2,7 @@
 
 The project is about creating a basic recommending system using jester dataset. The system is evaluated based on RMSE.
 
-There a few functions used in the process. In the following lines I will explain how to use those functions and what is the result.
+There are a few functions used in the process. In the following lines I will explain how to use those functions and what is the result.
 
 
 
